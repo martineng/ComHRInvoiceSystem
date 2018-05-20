@@ -11,7 +11,7 @@
 
  * **Martin C. A. ENG** - Developer Programmer - *Handling Documentation, Design and Coding*
 
- [Contact me via email](me@martineng.info)
+ Contact me via email: me@martineng.info
 
  ## License
 
