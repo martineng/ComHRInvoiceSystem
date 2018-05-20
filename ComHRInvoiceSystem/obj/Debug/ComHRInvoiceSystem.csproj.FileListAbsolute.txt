@@ -1,0 +1,91 @@
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+F:\File Cabin\Front Deck\Applying Library\Assessment 2\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Assessment 3\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\MySql.Data.dll
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+C:\Users\MartinC.A\Desktop\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\MySql.Data.dll
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+E:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\databaseDLL.dll
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+F:\File Cabin\temp\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+F:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+F:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+F:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\MySql.Data.dll
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojResolveAssemblyReference.cache
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.ComHRInvoiceSystem.exe.config
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+E:\File Cabin\Front Deck\Applying Library\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.Cache
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe.config
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.exe
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\bin\Debug\ComHRInvoiceSystem.pdb
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csprojAssemblyReference.cache
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe.config
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormHomePage.resources
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.FormLogin.resources
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.Properties.Resources.resources
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.GenerateResource.cache
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.CoreCompileInputs.cache
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.csproj.CopyComplete
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.exe
+D:\new\Final\Final\ComHRInvoiceSystem\ComHRInvoiceSystem\obj\Debug\ComHRInvoiceSystem.pdb
